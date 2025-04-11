@@ -1,7 +1,10 @@
 import express, { Request, Response, Router } from 'express';
 import { ConvertInput, InputValidator, RateInput } from './input-validator';
+import { ExchangeRateController } from './exchange-rate-controller';
 
-export function createRouter(): Router {
+export function createRouter(
+  exchangeRateController: ExchangeRateController,
+): Router {
   const router: Router = express.Router();
   const inputValidator = new InputValidator();
 
@@ -11,9 +14,9 @@ export function createRouter(): Router {
         req.params.isoCode,
       );
 
-      //TODO replace with your code
-      console.log(`GET /rates/${isoCode}`);
-      res.json([]); // return result
+      const result = exchangeRateController.getRates(isoCode);
+
+      res.json(result);
     } catch (error) {
       res.status(400).send(getErrorMessage(error));
     }
@@ -26,9 +29,9 @@ export function createRouter(): Router {
       );
       const rateInput: RateInput = inputValidator.validateRateInput(req.body);
 
-      //TODO replace with your code
-      console.log(`POST /rates/${isoCode}`, rateInput);
-      res.json(rateInput); // return result
+      exchangeRateController.addRate(isoCode, rateInput);
+
+      res.json(rateInput);
     } catch (error) {
       res.status(400).send(getErrorMessage(error));
     }
@@ -40,9 +43,9 @@ export function createRouter(): Router {
         req.query,
       );
 
-      //TODO replace with your code
-      console.log('GET /convert', convertInput);
-      res.json({}); // return result
+      const result = exchangeRateController.convert(convertInput);
+
+      res.json({ ...convertInput, result: result });
     } catch (error) {
       res.status(400).send(getErrorMessage(error));
     }
