@@ -1,0 +1,6578 @@
+[
+  {
+    "exchangeRate": 57.41,
+    "isoCode": "AFN",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 60.2535,
+    "isoCode": "AFN",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 62.08715,
+    "isoCode": "AFN",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 62.4547,
+    "isoCode": "AFN",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 64.1672,
+    "isoCode": "AFN",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 66.85145,
+    "isoCode": "AFN",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 65877.0,
+    "isoCode": "AFN",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 68.0426,
+    "isoCode": "AFN",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 68.7724,
+    "isoCode": "AFN",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 68.49045,
+    "isoCode": "AFN",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 64.02225,
+    "isoCode": "AFN",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 66.687,
+    "isoCode": "AFN",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 7.71163,
+    "isoCode": "EGP",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 7.6652,
+    "isoCode": "EGP",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 7.9893,
+    "isoCode": "EGP",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 8.1207,
+    "isoCode": "EGP",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 8.4216,
+    "isoCode": "EGP",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 8.72725,
+    "isoCode": "EGP",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 8.46955,
+    "isoCode": "EGP",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 8.53545,
+    "isoCode": "EGP",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 8.62425,
+    "isoCode": "EGP",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 8.65345,
+    "isoCode": "EGP",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 8.12745,
+    "isoCode": "EGP",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 8.3609,
+    "isoCode": "EGP",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 1.3353,
+    "isoCode": "USD",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 1.31995,
+    "isoCode": "USD",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 1.36965,
+    "isoCode": "USD",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 1.37925,
+    "isoCode": "USD",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 1.41465,
+    "isoCode": "USD",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 1.46735,
+    "isoCode": "USD",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 1.42195,
+    "isoCode": "USD",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 1.4313,
+    "isoCode": "USD",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 1.44805,
+    "isoCode": "USD",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 1.45295,
+    "isoCode": "USD",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 1.3628,
+    "isoCode": "USD",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 1.4007,
+    "isoCode": "USD",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 99.50665,
+    "isoCode": "DZD",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 98.2775,
+    "isoCode": "DZD",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 99.81115,
+    "isoCode": "DZD",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 100.09665,
+    "isoCode": "DZD",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 101.7285,
+    "isoCode": "DZD",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 104.6079,
+    "isoCode": "DZD",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 102.7081,
+    "isoCode": "DZD",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 102.81,
+    "isoCode": "DZD",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 104.92265,
+    "isoCode": "DZD",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 104.79795,
+    "isoCode": "DZD",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 100.4504,
+    "isoCode": "DZD",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 102.71885,
+    "isoCode": "DZD",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 657.105,
+    "isoCode": "XAF",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 657.10745,
+    "isoCode": "XAF",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 657.1212,
+    "isoCode": "XAF",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 657.43455,
+    "isoCode": "XAF",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 656.19445,
+    "isoCode": "XAF",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 655.95695,
+    "isoCode": "XAF",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 657.0836,
+    "isoCode": "XAF",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 657.08165,
+    "isoCode": "XAF",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 657.02775,
+    "isoCode": "XAF",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 657.1145,
+    "isoCode": "XAF",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 657.0785,
+    "isoCode": "XAF",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 657.1239,
+    "isoCode": "XAF",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 2.3905,
+    "isoCode": "AWG",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 2.3638,
+    "isoCode": "AWG",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 2.4514,
+    "isoCode": "AWG",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 2.46795,
+    "isoCode": "AWG",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 2.5322,
+    "isoCode": "AWG",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 2.62725,
+    "isoCode": "AWG",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 2.5447,
+    "isoCode": "AWG",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 2.5622,
+    "isoCode": "AWG",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 2.59165,
+    "isoCode": "AWG",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 2.6008,
+    "isoCode": "AWG",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 2.4389,
+    "isoCode": "AWG",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 2.507,
+    "isoCode": "AWG",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 22.116,
+    "isoCode": "ETB",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 21.9315,
+    "isoCode": "ETB",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 22.82755,
+    "isoCode": "ETB",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 23.0817,
+    "isoCode": "ETB",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 23.7619,
+    "isoCode": "ETB",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 24.63915,
+    "isoCode": "ETB",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 24.0046,
+    "isoCode": "ETB",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 24.2088,
+    "isoCode": "ETB",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 24.6731,
+    "isoCode": "ETB",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 24.6771,
+    "isoCode": "ETB",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 23.3178,
+    "isoCode": "ETB",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 24.10105,
+    "isoCode": "ETB",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 1.3623,
+    "isoCode": "AUD",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 1.30285,
+    "isoCode": "AUD",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 1.3748,
+    "isoCode": "AUD",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 1.371,
+    "isoCode": "AUD",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 1.37932,
+    "isoCode": "AUD",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 1.35645,
+    "isoCode": "AUD",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 1.33253,
+    "isoCode": "AUD",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 1.36669,
+    "isoCode": "AUD",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 1.30889,
+    "isoCode": "AUD",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 1.3687,
+    "isoCode": "AUD",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 1.37388,
+    "isoCode": "AUD",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 1.32988,
+    "isoCode": "AUD",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 1.3353,
+    "isoCode": "BSD",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 1.31995,
+    "isoCode": "BSD",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 1.36965,
+    "isoCode": "BSD",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 1.37925,
+    "isoCode": "BSD",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 1.41465,
+    "isoCode": "BSD",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 1.46735,
+    "isoCode": "BSD",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 1.42195,
+    "isoCode": "BSD",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 1.4313,
+    "isoCode": "BSD",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 1.44805,
+    "isoCode": "BSD",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 1.45295,
+    "isoCode": "BSD",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 1.3628,
+    "isoCode": "BSD",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 1.4007,
+    "isoCode": "BSD",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 0.50325,
+    "isoCode": "BHD",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 0.49755,
+    "isoCode": "BHD",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 0.51635,
+    "isoCode": "BHD",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 0.52005,
+    "isoCode": "BHD",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 0.53335,
+    "isoCode": "BHD",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 0.55325,
+    "isoCode": "BHD",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 0.5359,
+    "isoCode": "BHD",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 0.5396,
+    "isoCode": "BHD",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 0.54585,
+    "isoCode": "BHD",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 0.54775,
+    "isoCode": "BHD",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 0.51365,
+    "isoCode": "BHD",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 0.5281,
+    "isoCode": "BHD",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 94.03855,
+    "isoCode": "BDT",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 93.30045,
+    "isoCode": "BDT",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 97.2152,
+    "isoCode": "BDT",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 98.1216,
+    "isoCode": "BDT",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 102.5937,
+    "isoCode": "BDT",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 106.96265,
+    "isoCode": "BDT",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 104.41135,
+    "isoCode": "BDT",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 106.04895,
+    "isoCode": "BDT",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 108.09755,
+    "isoCode": "BDT",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 107.2944,
+    "isoCode": "BDT",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 102.4539,
+    "isoCode": "BDT",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 106.63795,
+    "isoCode": "BDT",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 2.6706,
+    "isoCode": "BBD",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 2.6411,
+    "isoCode": "BBD",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 2.7393,
+    "isoCode": "BBD",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 2.757,
+    "isoCode": "BBD",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 2.8292,
+    "isoCode": "BBD",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 2.9355,
+    "isoCode": "BBD",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 2.8434,
+    "isoCode": "BBD",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 2.8627,
+    "isoCode": "BBD",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 2.8957,
+    "isoCode": "BBD",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 2.9059,
+    "isoCode": "BBD",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 2.7244,
+    "isoCode": "BBD",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 2.8011,
+    "isoCode": "BBD",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 659.235,
+    "isoCode": "XOF",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 657.10745,
+    "isoCode": "XOF",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 657.1212,
+    "isoCode": "XOF",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 657.43455,
+    "isoCode": "XOF",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 656.19445,
+    "isoCode": "XOF",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 655.95695,
+    "isoCode": "XOF",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 657.0836,
+    "isoCode": "XOF",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 657.08165,
+    "isoCode": "XOF",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 657.02775,
+    "isoCode": "XOF",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 657.1145,
+    "isoCode": "XOF",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 657.0785,
+    "isoCode": "XOF",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 657.1239,
+    "isoCode": "XOF",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 1.3353,
+    "isoCode": "BMD",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 1.31995,
+    "isoCode": "BMD",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 1.36965,
+    "isoCode": "BMD",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 1.37925,
+    "isoCode": "BMD",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 1.41465,
+    "isoCode": "BMD",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 1.46735,
+    "isoCode": "BMD",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 1.42195,
+    "isoCode": "BMD",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 1.4313,
+    "isoCode": "BMD",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 1.44805,
+    "isoCode": "BMD",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 1.45295,
+    "isoCode": "BMD",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 1.3628,
+    "isoCode": "BMD",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 1.4007,
+    "isoCode": "BMD",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 8.9258,
+    "isoCode": "BWP",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 8.57355,
+    "isoCode": "BWP",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 9.1866,
+    "isoCode": "BWP",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 9.2588,
+    "isoCode": "BWP",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 9.2884,
+    "isoCode": "BWP",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 9.4139,
+    "isoCode": "BWP",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 9.4022,
+    "isoCode": "BWP",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 9.45755,
+    "isoCode": "BWP",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 9.34695,
+    "isoCode": "BWP",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 9.86695,
+    "isoCode": "BWP",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 9.87335,
+    "isoCode": "BWP",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 10.08735,
+    "isoCode": "BWP",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 1.7463,
+    "isoCode": "BND",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 1.71235,
+    "isoCode": "BND",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 1.75275,
+    "isoCode": "BND",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 1.76725,
+    "isoCode": "BND",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 1.78385,
+    "isoCode": "BND",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 1.8093,
+    "isoCode": "BND",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 1.7586,
+    "isoCode": "BND",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 1.7789,
+    "isoCode": "BND",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 1.7379,
+    "isoCode": "BND",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 1.75445,
+    "isoCode": "BND",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 1.7566,
+    "isoCode": "BND",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 1.76425,
+    "isoCode": "BND",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 8.87995,
+    "isoCode": "CNY",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 8.7594,
+    "isoCode": "CNY",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 9.026,
+    "isoCode": "CNY",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 9.0358,
+    "isoCode": "CNY",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 9.27435,
+    "isoCode": "CNY",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 9.55735,
+    "isoCode": "CNY",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 9.2411,
+    "isoCode": "CNY",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 9.2591,
+    "isoCode": "CNY",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 9.3285,
+    "isoCode": "CNY",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 9.271,
+    "isoCode": "CNY",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 8.71105,
+    "isoCode": "CNY",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 8.90455,
+    "isoCode": "CNY",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 7.456,
+    "isoCode": "DKK",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 7.4545,
+    "isoCode": "DKK",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 7.45385,
+    "isoCode": "DKK",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 7.4549,
+    "isoCode": "DKK",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 7.4571,
+    "isoCode": "DKK",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 7.4557,
+    "isoCode": "DKK",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 7.4563,
+    "isoCode": "DKK",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 7.4587,
+    "isoCode": "DKK",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 7.45315,
+    "isoCode": "DKK",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 7.45085,
+    "isoCode": "DKK",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 7.4419,
+    "isoCode": "DKK",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 7.44355,
+    "isoCode": "DKK",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 234.7282,
+    "isoCode": "DJF",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 234.6793,
+    "isoCode": "DJF",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 243.4142,
+    "isoCode": "DJF",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 245.0314,
+    "isoCode": "DJF",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 251.4063,
+    "isoCode": "DJF",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 260.8307,
+    "isoCode": "DJF",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 252.6468,
+    "isoCode": "DJF",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 254.3885,
+    "isoCode": "DJF",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 257.31005,
+    "isoCode": "DJF",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 258.2201,
+    "isoCode": "DJF",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 242.1471,
+    "isoCode": "DJF",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 248.90575,
+    "isoCode": "DJF",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 11.68055,
+    "isoCode": "SVC",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 11.5454,
+    "isoCode": "SVC",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 11.9812,
+    "isoCode": "SVC",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 12.06455,
+    "isoCode": "SVC",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 12.3744,
+    "isoCode": "SVC",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 12.83805,
+    "isoCode": "SVC",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 12.4355,
+    "isoCode": "SVC",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 12.5211,
+    "isoCode": "SVC",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 12.665,
+    "isoCode": "SVC",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 12.70925,
+    "isoCode": "SVC",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 11.91865,
+    "isoCode": "SVC",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 12.25195,
+    "isoCode": "SVC",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 20.03,
+    "isoCode": "ERN",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 19.8075,
+    "isoCode": "ERN",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 20.5448,
+    "isoCode": "ERN",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 20.68125,
+    "isoCode": "ERN",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 21.2193,
+    "isoCode": "ERN",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 22.011,
+    "isoCode": "ERN",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 21.324,
+    "isoCode": "ERN",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 21.471,
+    "isoCode": "ERN",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 21.7176,
+    "isoCode": "ERN",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 21.79445,
+    "isoCode": "ERN",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 20.4363,
+    "isoCode": "ERN",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 21.0078,
+    "isoCode": "ERN",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 1.0,
+    "isoCode": "EUR",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 1.0,
+    "isoCode": "EUR",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 1.0,
+    "isoCode": "EUR",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 1.0,
+    "isoCode": "EUR",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 2.4663,
+    "isoCode": "FJD",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 2.43475,
+    "isoCode": "FJD",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 2.5109,
+    "isoCode": "FJD",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 2.5077,
+    "isoCode": "FJD",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 2.5721,
+    "isoCode": "FJD",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 2.5703,
+    "isoCode": "FJD",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 2.5016,
+    "isoCode": "FJD",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 2.5361,
+    "isoCode": "FJD",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 2.47325,
+    "isoCode": "FJD",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 2.53165,
+    "isoCode": "FJD",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 2.45415,
+    "isoCode": "FJD",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 2.45495,
+    "isoCode": "FJD",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 35.72,
+    "isoCode": "GMD",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 37.61345,
+    "isoCode": "GMD",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 38.6932,
+    "isoCode": "GMD",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 38.9898,
+    "isoCode": "GMD",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 39.24545,
+    "isoCode": "GMD",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 41.1448,
+    "isoCode": "GMD",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 39.79785,
+    "isoCode": "GMD",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 40.0662,
+    "isoCode": "GMD",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 39.9227,
+    "isoCode": "GMD",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 41.52385,
+    "isoCode": "GMD",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 39.24005,
+    "isoCode": "GMD",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 40.6601,
+    "isoCode": "GMD",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 1.9345,
+    "isoCode": "GHS",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 1.94555,
+    "isoCode": "GHS",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 2.1333,
+    "isoCode": "GHS",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 2.08175,
+    "isoCode": "GHS",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 2.1656,
+    "isoCode": "GHS",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 2.1945,
+    "isoCode": "GHS",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 2.1425,
+    "isoCode": "GHS",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 2.1725,
+    "isoCode": "GHS",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 2.18295,
+    "isoCode": "GHS",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 2.21555,
+    "isoCode": "GHS",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 2.1636,
+    "isoCode": "GHS",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 2.23205,
+    "isoCode": "GHS",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 0.8474,
+    "isoCode": "GIP",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 0.85347,
+    "isoCode": "GIP",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 0.86165,
+    "isoCode": "GIP",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 0.85178,
+    "isoCode": "GIP",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 0.88254,
+    "isoCode": "GIP",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 0.88795,
+    "isoCode": "GIP",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 0.86652,
+    "isoCode": "GIP",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 0.8954,
+    "isoCode": "GIP",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 0.88186,
+    "isoCode": "GIP",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 0.88643,
+    "isoCode": "GIP",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 0.8711,
+    "isoCode": "GIP",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 0.8748,
+    "isoCode": "GIP",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 9246.965,
+    "isoCode": "GNF",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 9.33794,
+    "isoCode": "GNF",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 10.20405,
+    "isoCode": "GNF",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 10.29235,
+    "isoCode": "GNF",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 9.37186,
+    "isoCode": "GNF",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 9.72302,
+    "isoCode": "GNF",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 9.63206,
+    "isoCode": "GNF",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 9.6977,
+    "isoCode": "GNF",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 9.79102,
+    "isoCode": "GNF",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 9.8325,
+    "isoCode": "GNF",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 9.40412,
+    "isoCode": "GNF",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 9.80746,
+    "isoCode": "GNF",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 53.0742,
+    "isoCode": "HTG",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 51.4769,
+    "isoCode": "HTG",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 55.22585,
+    "isoCode": "HTG",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 55.66455,
+    "isoCode": "HTG",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 57.083,
+    "isoCode": "HTG",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 59.0073,
+    "isoCode": "HTG",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 57.37915,
+    "isoCode": "HTG",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 57.52645,
+    "isoCode": "HTG",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 58.42175,
+    "isoCode": "HTG",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 58.21105,
+    "isoCode": "HTG",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 54.823,
+    "isoCode": "HTG",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 55.9178,
+    "isoCode": "HTG",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 25.2286,
+    "isoCode": "HNL",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 24.9375,
+    "isoCode": "HNL",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 25.88065,
+    "isoCode": "HNL",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 26.06095,
+    "isoCode": "HNL",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 26.7291,
+    "isoCode": "HNL",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 27.7305,
+    "isoCode": "HNL",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 26.86525,
+    "isoCode": "HNL",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 27.0402,
+    "isoCode": "HNL",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 27.3575,
+    "isoCode": "HNL",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 27.35975,
+    "isoCode": "HNL",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 25.7398,
+    "isoCode": "HNL",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 26.54575,
+    "isoCode": "HNL",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 10.3609,
+    "isoCode": "HKD",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 10.27015,
+    "isoCode": "HKD",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 10.66785,
+    "isoCode": "HKD",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 10.75075,
+    "isoCode": "HKD",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 11.03105,
+    "isoCode": "HKD",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 11.40595,
+    "isoCode": "HKD",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 11.0648,
+    "isoCode": "HKD",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 11.1429,
+    "isoCode": "HKD",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 11.2814,
+    "isoCode": "HKD",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 11.32385,
+    "isoCode": "HKD",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 10.622,
+    "isoCode": "HKD",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 10.88355,
+    "isoCode": "HKD",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 60.843,
+    "isoCode": "INR",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 59.7438,
+    "isoCode": "INR",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 62.83435,
+    "isoCode": "INR",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 62.6695,
+    "isoCode": "INR",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 63.24915,
+    "isoCode": "INR",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 65.2373,
+    "isoCode": "INR",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 64.2591,
+    "isoCode": "INR",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 64.43355,
+    "isoCode": "INR",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 63.761,
+    "isoCode": "INR",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 66.693,
+    "isoCode": "INR",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 66.5785,
+    "isoCode": "INR",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 69.0057,
+    "isoCode": "INR",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 1559.63,
+    "isoCode": "IQD",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 1543.37315,
+    "isoCode": "IQD",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 1600.9458,
+    "isoCode": "IQD",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 1612.30215,
+    "isoCode": "IQD",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 1653.65565,
+    "isoCode": "IQD",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 1715.6538,
+    "isoCode": "IQD",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 1661.9093,
+    "isoCode": "IQD",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 1673.1543,
+    "isoCode": "IQD",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 1692.52465,
+    "isoCode": "IQD",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 1709.86405,
+    "isoCode": "IQD",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 1602.04055,
+    "isoCode": "IQD",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 1673.4323,
+    "isoCode": "IQD",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 13.887,
+    "isoCode": "IRR",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 13.68876,
+    "isoCode": "IRR",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 14.19153,
+    "isoCode": "IRR",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 14.24033,
+    "isoCode": "IRR",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 14.66954,
+    "isoCode": "IRR",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 15.30726,
+    "isoCode": "IRR",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 15.07298,
+    "isoCode": "IRR",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 15.74455,
+    "isoCode": "IRR",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 15.35065,
+    "isoCode": "IRR",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 15.29897,
+    "isoCode": "IRR",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 14.67764,
+    "isoCode": "IRR",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 15.01857,
+    "isoCode": "IRR",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 153.1,
+    "isoCode": "ISK",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 153.445,
+    "isoCode": "ISK",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 158.8,
+    "isoCode": "ISK",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 160.39,
+    "isoCode": "ISK",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 162.035,
+    "isoCode": "ISK",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 164.345,
+    "isoCode": "ISK",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 164.53,
+    "isoCode": "ISK",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 165.5,
+    "isoCode": "ISK",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 165.96,
+    "isoCode": "ISK",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 164.35,
+    "isoCode": "ISK",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 160.06,
+    "isoCode": "ISK",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 158.395,
+    "isoCode": "ISK",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 114.0079,
+    "isoCode": "JMD",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 112.48425,
+    "isoCode": "JMD",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 116.66205,
+    "isoCode": "JMD",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 117.75735,
+    "isoCode": "JMD",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 120.7803,
+    "isoCode": "JMD",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 125.2137,
+    "isoCode": "JMD",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 121.1008,
+    "isoCode": "JMD",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 122.2125,
+    "isoCode": "JMD",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 123.76135,
+    "isoCode": "JMD",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 124.4772,
+    "isoCode": "JMD",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 116.8684,
+    "isoCode": "JMD",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 120.3424,
+    "isoCode": "JMD",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 111.64,
+    "isoCode": "JPY",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 108.22,
+    "isoCode": "JPY",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 112.83,
+    "isoCode": "JPY",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 112.93,
+    "isoCode": "JPY",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 115.525,
+    "isoCode": "JPY",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 119.92,
+    "isoCode": "JPY",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 115.26,
+    "isoCode": "JPY",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 115.645,
+    "isoCode": "JPY",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 112.445,
+    "isoCode": "JPY",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 111.365,
+    "isoCode": "JPY",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 104.16,
+    "isoCode": "JPY",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 106.3,
+    "isoCode": "JPY",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 286.422,
+    "isoCode": "YER",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 282.184,
+    "isoCode": "YER",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 292.83555,
+    "isoCode": "YER",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 294.8729,
+    "isoCode": "YER",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 302.4459,
+    "isoCode": "YER",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 313.77835,
+    "isoCode": "YER",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 303.9392,
+    "isoCode": "YER",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 306.03225,
+    "isoCode": "YER",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 309.54825,
+    "isoCode": "YER",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 310.63,
+    "isoCode": "YER",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 298.05135,
+    "isoCode": "YER",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 306.3866,
+    "isoCode": "YER",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 0.94505,
+    "isoCode": "JOD",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 0.93505,
+    "isoCode": "JOD",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 0.9703,
+    "isoCode": "JOD",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 0.9778,
+    "isoCode": "JOD",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 1.00295,
+    "isoCode": "JOD",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 1.0405,
+    "isoCode": "JOD",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 1.00795,
+    "isoCode": "JOD",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 1.01485,
+    "isoCode": "JOD",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 1.02645,
+    "isoCode": "JOD",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 1.03015,
+    "isoCode": "JOD",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 0.96525,
+    "isoCode": "JOD",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 0.99295,
+    "isoCode": "JOD",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 1.34825,
+    "isoCode": "CAD",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 1.31915,
+    "isoCode": "CAD",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 1.36315,
+    "isoCode": "CAD",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 1.3556,
+    "isoCode": "CAD",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 1.37911,
+    "isoCode": "CAD",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 1.39763,
+    "isoCode": "CAD",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 1.39017,
+    "isoCode": "CAD",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 1.41097,
+    "isoCode": "CAD",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 1.36466,
+    "isoCode": "CAD",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 1.42117,
+    "isoCode": "CAD",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 1.39398,
+    "isoCode": "CAD",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 1.39929,
+    "isoCode": "CAD",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 110.2625,
+    "isoCode": "CVE",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 110.265,
+    "isoCode": "CVE",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 110.265,
+    "isoCode": "CVE",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 110.265,
+    "isoCode": "CVE",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 110.265,
+    "isoCode": "CVE",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 110.265,
+    "isoCode": "CVE",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 110.265,
+    "isoCode": "CVE",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 110.265,
+    "isoCode": "CVE",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 110.265,
+    "isoCode": "CVE",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 110.265,
+    "isoCode": "CVE",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 110.265,
+    "isoCode": "CVE",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 110.265,
+    "isoCode": "CVE",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 4.8625,
+    "isoCode": "QAR",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 4.80575,
+    "isoCode": "QAR",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 4.98715,
+    "isoCode": "QAR",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 5.0225,
+    "isoCode": "QAR",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 5.15155,
+    "isoCode": "QAR",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 5.3442,
+    "isoCode": "QAR",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 5.1773,
+    "isoCode": "QAR",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 5.21235,
+    "isoCode": "QAR",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 5.2722,
+    "isoCode": "QAR",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 5.29065,
+    "isoCode": "QAR",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 4.9619,
+    "isoCode": "QAR",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 5.1005,
+    "isoCode": "QAR",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 492.125,
+    "isoCode": "KMF",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 489.37245,
+    "isoCode": "KMF",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 491.42065,
+    "isoCode": "KMF",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 492.56605,
+    "isoCode": "KMF",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 492.4971,
+    "isoCode": "KMF",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 492.25475,
+    "isoCode": "KMF",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 490.77845,
+    "isoCode": "KMF",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 493.63525,
+    "isoCode": "KMF",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 491.9132,
+    "isoCode": "KMF",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 491.5449,
+    "isoCode": "KMF",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 493.71445,
+    "isoCode": "KMF",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 491.6764,
+    "isoCode": "KMF",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 0.37595,
+    "isoCode": "KWD",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 0.37205,
+    "isoCode": "KWD",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 0.38285,
+    "isoCode": "KWD",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 0.3844,
+    "isoCode": "KWD",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 0.3922,
+    "isoCode": "KWD",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 0.4036,
+    "isoCode": "KWD",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 0.3919,
+    "isoCode": "KWD",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 0.3935,
+    "isoCode": "KWD",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 0.3947,
+    "isoCode": "KWD",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 0.3955,
+    "isoCode": "KWD",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 0.3767,
+    "isoCode": "KWD",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 0.3843,
+    "isoCode": "KWD",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 0.7096,
+    "isoCode": "LVL",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 0.70985,
+    "isoCode": "LVL",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 0.7039,
+    "isoCode": "LVL",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 0.7044,
+    "isoCode": "LVL",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 0.70925,
+    "isoCode": "LVL",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 0.70935,
+    "isoCode": "LVL",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 0.7093,
+    "isoCode": "LVL",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 0.70935,
+    "isoCode": "LVL",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 0.7095,
+    "isoCode": "LVL",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 0.70945,
+    "isoCode": "LVL",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 0.70935,
+    "isoCode": "LVL",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 0.7045,
+    "isoCode": "LVL",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 1.3353,
+    "isoCode": "LRD",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 1.31995,
+    "isoCode": "LRD",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 1.36965,
+    "isoCode": "LRD",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 1.37925,
+    "isoCode": "LRD",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 1.41465,
+    "isoCode": "LRD",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 1.46735,
+    "isoCode": "LRD",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 1.42195,
+    "isoCode": "LRD",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 1.4313,
+    "isoCode": "LRD",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 1.44805,
+    "isoCode": "LRD",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 1.45295,
+    "isoCode": "LRD",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 1.3628,
+    "isoCode": "LRD",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 1.4007,
+    "isoCode": "LRD",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 1.6746,
+    "isoCode": "LYD",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 1.6655,
+    "isoCode": "LYD",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 1.6924,
+    "isoCode": "LYD",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 1.70475,
+    "isoCode": "LYD",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 1.7271,
+    "isoCode": "LYD",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 1.75525,
+    "isoCode": "LYD",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 1.70585,
+    "isoCode": "LYD",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 1.7373,
+    "isoCode": "LYD",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 1.736,
+    "isoCode": "LYD",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 1.7377,
+    "isoCode": "LYD",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 1.6785,
+    "isoCode": "LYD",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 1.70235,
+    "isoCode": "LYD",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 3.45285,
+    "isoCode": "LTL",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 3.4524,
+    "isoCode": "LTL",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 3.4527,
+    "isoCode": "LTL",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 3.4528,
+    "isoCode": "LTL",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 3.45285,
+    "isoCode": "LTL",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 3.45285,
+    "isoCode": "LTL",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 3.4527,
+    "isoCode": "LTL",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 3.4528,
+    "isoCode": "LTL",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 3.452,
+    "isoCode": "LTL",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 3.4527,
+    "isoCode": "LTL",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 3.45295,
+    "isoCode": "LTL",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 3.4527,
+    "isoCode": "LTL",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 2676.0,
+    "isoCode": "MGA",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 2833.5068,
+    "isoCode": "MGA",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 2809.87905,
+    "isoCode": "MGA",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 2766.1704,
+    "isoCode": "MGA",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 2843.3257,
+    "isoCode": "MGA",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 2869.51115,
+    "isoCode": "MGA",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 2798.62705,
+    "isoCode": "MGA",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 2796.23035,
+    "isoCode": "MGA",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 2863.10355,
+    "isoCode": "MGA",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 2840.41945,
+    "isoCode": "MGA",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 2799.9794,
+    "isoCode": "MGA",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 2945.9939,
+    "isoCode": "MGA",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 4.18215,
+    "isoCode": "MYR",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 4.09425,
+    "isoCode": "MYR",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 4.18705,
+    "isoCode": "MYR",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 4.2139,
+    "isoCode": "MYR",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 4.28135,
+    "isoCode": "MYR",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 4.37135,
+    "isoCode": "MYR",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 4.30825,
+    "isoCode": "MYR",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 4.3606,
+    "isoCode": "MYR",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 4.25845,
+    "isoCode": "MYR",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 4.33055,
+    "isoCode": "MYR",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 4.3016,
+    "isoCode": "MYR",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 4.3625,
+    "isoCode": "MYR",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 11.18155,
+    "isoCode": "MAD",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 11.1219,
+    "isoCode": "MAD",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 11.23,
+    "isoCode": "MAD",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 11.24,
+    "isoCode": "MAD",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 11.3021,
+    "isoCode": "MAD",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 11.3754,
+    "isoCode": "MAD",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 11.3201,
+    "isoCode": "MAD",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 11.3325,
+    "isoCode": "MAD",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 11.35185,
+    "isoCode": "MAD",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 11.3601,
+    "isoCode": "MAD",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 11.2345,
+    "isoCode": "MAD",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 11.2912,
+    "isoCode": "MAD",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 375.22,
+    "isoCode": "MRO",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 373.5176,
+    "isoCode": "MRO",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 384.8716,
+    "isoCode": "MRO",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 395.1405,
+    "isoCode": "MRO",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 391.1426,
+    "isoCode": "MRO",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 399.92785,
+    "isoCode": "MRO",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 388.09825,
+    "isoCode": "MRO",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 393.5763,
+    "isoCode": "MRO",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 401.05165,
+    "isoCode": "MRO",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 406.812,
+    "isoCode": "MRO",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 388.31835,
+    "isoCode": "MRO",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 403.37975,
+    "isoCode": "MRO",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 40.395,
+    "isoCode": "MUR",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 40.28055,
+    "isoCode": "MUR",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 40.2835,
+    "isoCode": "MUR",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 41.09245,
+    "isoCode": "MUR",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 40.3841,
+    "isoCode": "MUR",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 40.58125,
+    "isoCode": "MUR",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 39.80775,
+    "isoCode": "MUR",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 40.64565,
+    "isoCode": "MUR",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 40.4671,
+    "isoCode": "MUR",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 40.60855,
+    "isoCode": "MUR",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 39.51305,
+    "isoCode": "MUR",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 40.47355,
+    "isoCode": "MUR",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 47.605,
+    "isoCode": "MZN",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 43.2251,
+    "isoCode": "MZN",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 44.446,
+    "isoCode": "MZN",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 43.00345,
+    "isoCode": "MZN",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 43.78865,
+    "isoCode": "MZN",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 45.8633,
+    "isoCode": "MZN",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 42.18745,
+    "isoCode": "MZN",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 41.1526,
+    "isoCode": "MZN",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 40.6843,
+    "isoCode": "MZN",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 39.8821,
+    "isoCode": "MZN",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 36.9216,
+    "isoCode": "MZN",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 37.8827,
+    "isoCode": "MZN",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 8.59265,
+    "isoCode": "MMK",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 8.4747,
+    "isoCode": "MMK",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 8.7933,
+    "isoCode": "MMK",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 8.8551,
+    "isoCode": "MMK",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 9.0817,
+    "isoCode": "MMK",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 9.42295,
+    "isoCode": "MMK",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 9.1512,
+    "isoCode": "MMK",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 9.17255,
+    "isoCode": "MMK",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 9.3173,
+    "isoCode": "MMK",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 9.28315,
+    "isoCode": "MMK",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 8.71495,
+    "isoCode": "MMK",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 8.96085,
+    "isoCode": "MMK",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 9.3871,
+    "isoCode": "NAD",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 8.8161,
+    "isoCode": "NAD",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 9.74125,
+    "isoCode": "NAD",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 9.8033,
+    "isoCode": "NAD",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 9.71325,
+    "isoCode": "NAD",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 9.7661,
+    "isoCode": "NAD",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 9.8868,
+    "isoCode": "NAD",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 9.82375,
+    "isoCode": "NAD",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 9.6263,
+    "isoCode": "NAD",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 10.30465,
+    "isoCode": "NAD",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 10.6706,
+    "isoCode": "NAD",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 10.97145,
+    "isoCode": "NAD",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 119.32,
+    "isoCode": "XPF",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 118.872,
+    "isoCode": "XPF",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 119.08265,
+    "isoCode": "XPF",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 119.60175,
+    "isoCode": "XPF",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 119.4575,
+    "isoCode": "XPF",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 119.4013,
+    "isoCode": "XPF",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 119.03485,
+    "isoCode": "XPF",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 119.7362,
+    "isoCode": "XPF",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 118.95695,
+    "isoCode": "XPF",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 119.61575,
+    "isoCode": "XPF",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 119.9055,
+    "isoCode": "XPF",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 119.45285,
+    "isoCode": "XPF",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 1.7574,
+    "isoCode": "NZD",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 1.74485,
+    "isoCode": "NZD",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 1.7644,
+    "isoCode": "NZD",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 1.8437,
+    "isoCode": "NZD",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 1.8778,
+    "isoCode": "NZD",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 1.8205,
+    "isoCode": "NZD",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 1.74385,
+    "isoCode": "NZD",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 1.7754,
+    "isoCode": "NZD",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 1.65305,
+    "isoCode": "NZD",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 1.71935,
+    "isoCode": "NZD",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 1.7286,
+    "isoCode": "NZD",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 1.734,
+    "isoCode": "NZD",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 2.3635,
+    "isoCode": "ANG",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 2.3638,
+    "isoCode": "ANG",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 2.4514,
+    "isoCode": "ANG",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 2.46795,
+    "isoCode": "ANG",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 2.5322,
+    "isoCode": "ANG",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 2.62725,
+    "isoCode": "ANG",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 2.5447,
+    "isoCode": "ANG",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 2.5622,
+    "isoCode": "ANG",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 2.59165,
+    "isoCode": "ANG",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 2.6008,
+    "isoCode": "ANG",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 2.4389,
+    "isoCode": "ANG",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 2.507,
+    "isoCode": "ANG",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 8.13675,
+    "isoCode": "NOK",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 7.82465,
+    "isoCode": "NOK",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 7.9335,
+    "isoCode": "NOK",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 7.7293,
+    "isoCode": "NOK",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 7.89625,
+    "isoCode": "NOK",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 7.7881,
+    "isoCode": "NOK",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 7.7884,
+    "isoCode": "NOK",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 7.8351,
+    "isoCode": "NOK",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 7.75,
+    "isoCode": "NOK",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 7.7704,
+    "isoCode": "NOK",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 7.80565,
+    "isoCode": "NOK",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 7.66855,
+    "isoCode": "NOK",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 0.5141,
+    "isoCode": "OMR",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 0.50815,
+    "isoCode": "OMR",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 0.5273,
+    "isoCode": "OMR",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 0.5309,
+    "isoCode": "OMR",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 0.5446,
+    "isoCode": "OMR",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 0.56495,
+    "isoCode": "OMR",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 0.5473,
+    "isoCode": "OMR",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 0.55095,
+    "isoCode": "OMR",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 0.5574,
+    "isoCode": "OMR",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 0.55935,
+    "isoCode": "OMR",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 0.52455,
+    "isoCode": "OMR",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 0.5393,
+    "isoCode": "OMR",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 114.3685,
+    "isoCode": "PKR",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 113.0518,
+    "isoCode": "PKR",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 117.2339,
+    "isoCode": "PKR",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 117.74065,
+    "isoCode": "PKR",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 120.68835,
+    "isoCode": "PKR",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 124.0877,
+    "isoCode": "PKR",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 121.7107,
+    "isoCode": "PKR",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 123.0819,
+    "isoCode": "PKR",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 125.2816,
+    "isoCode": "PKR",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 126.67835,
+    "isoCode": "PKR",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 119.0837,
+    "isoCode": "PKR",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 121.6181,
+    "isoCode": "PKR",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 3.4401,
+    "isoCode": "PGK",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 3.47785,
+    "isoCode": "PGK",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 3.6069,
+    "isoCode": "PGK",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 3.56515,
+    "isoCode": "PGK",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 3.6111,
+    "isoCode": "PGK",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 3.6258,
+    "isoCode": "PGK",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 3.3635,
+    "isoCode": "PGK",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 3.28145,
+    "isoCode": "PGK",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 3.26995,
+    "isoCode": "PGK",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 3.26015,
+    "isoCode": "PGK",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 3.0471,
+    "isoCode": "PGK",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 3.0495,
+    "isoCode": "PGK",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 3.97935,
+    "isoCode": "PLN",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 3.98285,
+    "isoCode": "PLN",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 3.92845,
+    "isoCode": "PLN",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 3.98585,
+    "isoCode": "PLN",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 3.99135,
+    "isoCode": "PLN",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 3.94075,
+    "isoCode": "PLN",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 3.97815,
+    "isoCode": "PLN",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 3.99685,
+    "isoCode": "PLN",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 4.0009,
+    "isoCode": "PLN",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 4.1614,
+    "isoCode": "PLN",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 4.39775,
+    "isoCode": "PLN",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 4.35395,
+    "isoCode": "PLN",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 1525.11,
+    "isoCode": "KRW",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 1519.05615,
+    "isoCode": "KRW",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 1526.7816,
+    "isoCode": "KRW",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 1557.8882,
+    "isoCode": "KRW",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 1567.34585,
+    "isoCode": "KRW",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 1584.99975,
+    "isoCode": "KRW",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 1541.38455,
+    "isoCode": "KRW",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 1546.2101,
+    "isoCode": "KRW",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 1525.02465,
+    "isoCode": "KRW",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 1561.0648,
+    "isoCode": "KRW",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 1586.9102,
+    "isoCode": "KRW",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 1560.2218,
+    "isoCode": "KRW",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 795.835,
+    "isoCode": "RWF",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 784.10985,
+    "isoCode": "RWF",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 821.1201,
+    "isoCode": "RWF",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 826.8146,
+    "isoCode": "RWF",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 848.04665,
+    "isoCode": "RWF",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 883.13085,
+    "isoCode": "RWF",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 851.0076,
+    "isoCode": "RWF",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 862.05215,
+    "isoCode": "RWF",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 868.3994,
+    "isoCode": "RWF",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 871.6515,
+    "isoCode": "RWF",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 817.40965,
+    "isoCode": "RWF",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 842.2422,
+    "isoCode": "RWF",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 10.475,
+    "isoCode": "SBD",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 10.34785,
+    "isoCode": "SBD",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 10.72215,
+    "isoCode": "SBD",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 10.674,
+    "isoCode": "SBD",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 10.90825,
+    "isoCode": "SBD",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 11.36665,
+    "isoCode": "SBD",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 10.9466,
+    "isoCode": "SBD",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 10.3349,
+    "isoCode": "SBD",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 10.8334,
+    "isoCode": "SBD",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 10.81315,
+    "isoCode": "SBD",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 10.1636,
+    "isoCode": "SBD",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 10.4202,
+    "isoCode": "SBD",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 6322.645,
+    "isoCode": "ZMK",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 6315.48435,
+    "isoCode": "ZMK",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 6614.9492,
+    "isoCode": "ZMK",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 6564.5137,
+    "isoCode": "ZMK",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 6695.56055,
+    "isoCode": "ZMK",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 6927.42775,
+    "isoCode": "ZMK",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 6752.74415,
+    "isoCode": "ZMK",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 6949.42185,
+    "isoCode": "ZMK",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 6944.6914,
+    "isoCode": "ZMK",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 7235.4434,
+    "isoCode": "ZMK",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 6630.89845,
+    "isoCode": "ZMK",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 6884.4375,
+    "isoCode": "ZMK",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 3.075,
+    "isoCode": "WST",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 3.1483,
+    "isoCode": "WST",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 3.24085,
+    "isoCode": "WST",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 3.30245,
+    "isoCode": "WST",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 3.34165,
+    "isoCode": "WST",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 3.3337,
+    "isoCode": "WST",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 3.23875,
+    "isoCode": "WST",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 3.2838,
+    "isoCode": "WST",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 3.18245,
+    "isoCode": "WST",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 3.27275,
+    "isoCode": "WST",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 3.1847,
+    "isoCode": "WST",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 3.23595,
+    "isoCode": "WST",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 5.008,
+    "isoCode": "SAR",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 4.9497,
+    "isoCode": "SAR",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 5.13705,
+    "isoCode": "SAR",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 5.17335,
+    "isoCode": "SAR",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 5.3052,
+    "isoCode": "SAR",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 5.5039,
+    "isoCode": "SAR",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 5.3315,
+    "isoCode": "SAR",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 5.36805,
+    "isoCode": "SAR",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 5.42975,
+    "isoCode": "SAR",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 5.449,
+    "isoCode": "SAR",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 5.1099,
+    "isoCode": "SAR",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 5.25355,
+    "isoCode": "SAR",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 9.2927,
+    "isoCode": "SEK",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 8.99375,
+    "isoCode": "SEK",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 8.86,
+    "isoCode": "SEK",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 8.79995,
+    "isoCode": "SEK",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 8.9861,
+    "isoCode": "SEK",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 8.92685,
+    "isoCode": "SEK",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 8.90545,
+    "isoCode": "SEK",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 9.2451,
+    "isoCode": "SEK",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 9.072,
+    "isoCode": "SEK",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 9.11745,
+    "isoCode": "SEK",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 9.16495,
+    "isoCode": "SEK",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 9.0606,
+    "isoCode": "SEK",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 1.3368,
+    "isoCode": "CHF",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 1.25165,
+    "isoCode": "CHF",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 1.2951,
+    "isoCode": "CHF",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 1.2767,
+    "isoCode": "CHF",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 1.29639,
+    "isoCode": "CHF",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 1.28333,
+    "isoCode": "CHF",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 1.22099,
+    "isoCode": "CHF",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 1.19507,
+    "isoCode": "CHF",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 1.15806,
+    "isoCode": "CHF",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 1.18132,
+    "isoCode": "CHF",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 1.22024,
+    "isoCode": "CHF",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 1.22705,
+    "isoCode": "CHF",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 107.11,
+    "isoCode": "RSD",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 106.045,
+    "isoCode": "RSD",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 104.545,
+    "isoCode": "RSD",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 103.505,
+    "isoCode": "RSD",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 103.35,
+    "isoCode": "RSD",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 100.285,
+    "isoCode": "RSD",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 96.87,
+    "isoCode": "RSD",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 101.91,
+    "isoCode": "RSD",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 103.15,
+    "isoCode": "RSD",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 101.615,
+    "isoCode": "RSD",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 101.33,
+    "isoCode": "RSD",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 100.44,
+    "isoCode": "RSD",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 16.3895,
+    "isoCode": "SCR",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 16.16005,
+    "isoCode": "SCR",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 17.1911,
+    "isoCode": "SCR",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 16.82855,
+    "isoCode": "SCR",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 17.3201,
+    "isoCode": "SCR",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 17.9696,
+    "isoCode": "SCR",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 17.4095,
+    "isoCode": "SCR",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 17.5257,
+    "isoCode": "SCR",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 17.7,
+    "isoCode": "SCR",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 17.8201,
+    "isoCode": "SCR",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 16.91005,
+    "isoCode": "SCR",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 17.75435,
+    "isoCode": "SCR",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 5641.65,
+    "isoCode": "SLL",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 5528.82225,
+    "isoCode": "SLL",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 5836.41995,
+    "isoCode": "SLL",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 5834.43165,
+    "isoCode": "SLL",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 6129.43555,
+    "isoCode": "SLL",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 6386.06055,
+    "isoCode": "SLL",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 6184.16015,
+    "isoCode": "SLL",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 6230.9961,
+    "isoCode": "SLL",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 6336.57225,
+    "isoCode": "SLL",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 6405.2324,
+    "isoCode": "SLL",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 5981.62305,
+    "isoCode": "SLL",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 6194.28125,
+    "isoCode": "SLL",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 1.7448,
+    "isoCode": "SGD",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 1.7096,
+    "isoCode": "SGD",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 1.753,
+    "isoCode": "SGD",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 1.7639,
+    "isoCode": "SGD",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 1.7833,
+    "isoCode": "SGD",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 1.80845,
+    "isoCode": "SGD",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 1.7606,
+    "isoCode": "SGD",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 1.77695,
+    "isoCode": "SGD",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 1.73835,
+    "isoCode": "SGD",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 1.75405,
+    "isoCode": "SGD",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 1.7492,
+    "isoCode": "SGD",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 1.7638,
+    "isoCode": "SGD",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 148.619,
+    "isoCode": "LKR",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 146.4374,
+    "isoCode": "LKR",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 152.1704,
+    "isoCode": "LKR",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 152.7809,
+    "isoCode": "LKR",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 156.09985,
+    "isoCode": "LKR",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 161.67355,
+    "isoCode": "LKR",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 156.174,
+    "isoCode": "LKR",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 157.0598,
+    "isoCode": "LKR",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 158.5167,
+    "isoCode": "LKR",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 159.6374,
+    "isoCode": "LKR",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 150.1293,
+    "isoCode": "LKR",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 154.32785,
+    "isoCode": "LKR",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 9.3871,
+    "isoCode": "ZAR",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 8.8161,
+    "isoCode": "ZAR",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 9.74125,
+    "isoCode": "ZAR",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 9.8033,
+    "isoCode": "ZAR",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 9.71325,
+    "isoCode": "ZAR",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 9.7661,
+    "isoCode": "ZAR",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 9.8868,
+    "isoCode": "ZAR",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 9.82375,
+    "isoCode": "ZAR",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 9.6263,
+    "isoCode": "ZAR",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 10.30465,
+    "isoCode": "ZAR",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 10.6706,
+    "isoCode": "ZAR",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 10.97145,
+    "isoCode": "ZAR",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 3.17,
+    "isoCode": "SDG",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 3.29965,
+    "isoCode": "SDG",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 3.4242,
+    "isoCode": "SDG",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 3.6755,
+    "isoCode": "SDG",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 3.3667,
+    "isoCode": "SDG",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 3.9039,
+    "isoCode": "SDG",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 3.81,
+    "isoCode": "SDG",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 3.8433,
+    "isoCode": "SDG",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 3.88745,
+    "isoCode": "SDG",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 3.8647,
+    "isoCode": "SDG",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 3.6584,
+    "isoCode": "SDG",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 3.7537,
+    "isoCode": "SDG",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 9.39385,
+    "isoCode": "SZL",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 8.81344,
+    "isoCode": "SZL",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 9.74095,
+    "isoCode": "SZL",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 9.80302,
+    "isoCode": "SZL",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 9.71341,
+    "isoCode": "SZL",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 9.76287,
+    "isoCode": "SZL",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 9.8871,
+    "isoCode": "SZL",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 9.82358,
+    "isoCode": "SZL",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 9.62707,
+    "isoCode": "SZL",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 10.30403,
+    "isoCode": "SZL",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 10.67141,
+    "isoCode": "SZL",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 10.97336,
+    "isoCode": "SZL",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 62.09145,
+    "isoCode": "SYP",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 61.967,
+    "isoCode": "SYP",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 63.8361,
+    "isoCode": "SYP",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 64.51895,
+    "isoCode": "SYP",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 66.9752,
+    "isoCode": "SYP",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 69.50195,
+    "isoCode": "SYP",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 67.60915,
+    "isoCode": "SYP",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 67.90975,
+    "isoCode": "SYP",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 68.8832,
+    "isoCode": "SYP",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 68.1931,
+    "isoCode": "SYP",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 66.76795,
+    "isoCode": "SYP",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 68.94405,
+    "isoCode": "SYP",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 40.575,
+    "isoCode": "TWD",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 38.99245,
+    "isoCode": "TWD",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 39.74985,
+    "isoCode": "TWD",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 40.84355,
+    "isoCode": "TWD",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 41.64885,
+    "isoCode": "TWD",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 42.3185,
+    "isoCode": "TWD",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 41.0751,
+    "isoCode": "TWD",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 41.38715,
+    "isoCode": "TWD",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 41.67735,
+    "isoCode": "TWD",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 42.1803,
+    "isoCode": "TWD",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 41.43925,
+    "isoCode": "TWD",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 42.10545,
+    "isoCode": "TWD",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 40.1458,
+    "isoCode": "THB",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 39.81795,
+    "isoCode": "THB",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 42.5083,
+    "isoCode": "THB",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 42.25445,
+    "isoCode": "THB",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 42.89805,
+    "isoCode": "THB",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 43.97155,
+    "isoCode": "THB",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 43.1879,
+    "isoCode": "THB",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 44.3019,
+    "isoCode": "THB",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 43.02455,
+    "isoCode": "THB",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 43.5827,
+    "isoCode": "THB",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 42.2559,
+    "isoCode": "THB",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 43.0195,
+    "isoCode": "THB",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 2.4,
+    "isoCode": "TOP",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 2.41735,
+    "isoCode": "TOP",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 2.4841,
+    "isoCode": "TOP",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 2.52195,
+    "isoCode": "TOP",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 2.56325,
+    "isoCode": "TOP",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 2.5717,
+    "isoCode": "TOP",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 2.48845,
+    "isoCode": "TOP",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 2.4434,
+    "isoCode": "TOP",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 2.31095,
+    "isoCode": "TOP",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 2.3779,
+    "isoCode": "TOP",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 2.32,
+    "isoCode": "TOP",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 2.36305,
+    "isoCode": "TOP",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 24.728,
+    "isoCode": "CZK",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 25.3585,
+    "isoCode": "CZK",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 24.256,
+    "isoCode": "CZK",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 24.517,
+    "isoCode": "CZK",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 24.5535,
+    "isoCode": "CZK",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 24.0995,
+    "isoCode": "CZK",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 24.6185,
+    "isoCode": "CZK",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 24.376,
+    "isoCode": "CZK",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 24.2845,
+    "isoCode": "CZK",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 24.137,
+    "isoCode": "CZK",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 24.5055,
+    "isoCode": "CZK",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 24.93,
+    "isoCode": "CZK",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 1.92884,
+    "isoCode": "TND",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 1.91003,
+    "isoCode": "TND",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 1.937,
+    "isoCode": "TND",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 1.9428,
+    "isoCode": "TND",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 1.96085,
+    "isoCode": "TND",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 1.9876,
+    "isoCode": "TND",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 1.9703,
+    "isoCode": "TND",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 1.97045,
+    "isoCode": "TND",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 1.9761,
+    "isoCode": "TND",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 1.9806,
+    "isoCode": "TND",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 1.93845,
+    "isoCode": "TND",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 1.96465,
+    "isoCode": "TND",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 1.9647,
+    "isoCode": "TRY",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 2.0572,
+    "isoCode": "TRY",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 2.19455,
+    "isoCode": "TRY",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 2.2172,
+    "isoCode": "TRY",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 2.2085,
+    "isoCode": "TRY",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 2.23645,
+    "isoCode": "TRY",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 2.291,
+    "isoCode": "TRY",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 2.3397,
+    "isoCode": "TRY",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 2.46485,
+    "isoCode": "TRY",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 2.5381,
+    "isoCode": "TRY",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 2.51325,
+    "isoCode": "TRY",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 2.4464,
+    "isoCode": "TRY",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 3058.79,
+    "isoCode": "UGX",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 3059.41305,
+    "isoCode": "UGX",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 3150.1948,
+    "isoCode": "UGX",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 3240.4299,
+    "isoCode": "UGX",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 3398.6255,
+    "isoCode": "UGX",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 3500.28615,
+    "isoCode": "UGX",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 3393.37135,
+    "isoCode": "UGX",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 3655.783,
+    "isoCode": "UGX",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 3764.3838,
+    "isoCode": "UGX",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 4104.44335,
+    "isoCode": "UGX",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 3862.7449,
+    "isoCode": "UGX",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 3702.81665,
+    "isoCode": "UGX",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 277.52,
+    "isoCode": "HUF",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 279.14,
+    "isoCode": "HUF",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 272.04,
+    "isoCode": "HUF",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 274.345,
+    "isoCode": "HUF",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 267.87,
+    "isoCode": "HUF",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 264.915,
+    "isoCode": "HUF",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 268.685,
+    "isoCode": "HUF",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 268.35,
+    "isoCode": "HUF",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 267.915,
+    "isoCode": "HUF",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 272.545,
+    "isoCode": "HUF",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 286.975,
+    "isoCode": "HUF",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 301.52,
+    "isoCode": "HUF",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 125.8322,
+    "isoCode": "VUV",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 126.9238,
+    "isoCode": "VUV",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 130.45125,
+    "isoCode": "VUV",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 131.6935,
+    "isoCode": "VUV",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 133.3734,
+    "isoCode": "VUV",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 133.4711,
+    "isoCode": "VUV",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 130.64455,
+    "isoCode": "VUV",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 132.4681,
+    "isoCode": "VUV",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 129.72725,
+    "isoCode": "VUV",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 132.7317,
+    "isoCode": "VUV",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 130.14325,
+    "isoCode": "VUV",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 130.5485,
+    "isoCode": "VUV",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 5.74179,
+    "isoCode": "VEF",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 5.67579,
+    "isoCode": "VEF",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 5.8895,
+    "isoCode": "VEF",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 5.93078,
+    "isoCode": "VEF",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 6.083,
+    "isoCode": "VEF",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 6.30961,
+    "isoCode": "VEF",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 6.11439,
+    "isoCode": "VEF",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 6.15459,
+    "isoCode": "VEF",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 6.22662,
+    "isoCode": "VEF",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 6.24769,
+    "isoCode": "VEF",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 5.86004,
+    "isoCode": "VEF",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 6.02301,
+    "isoCode": "VEF",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 4.9047,
+    "isoCode": "AED",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 4.8478,
+    "isoCode": "AED",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 5.03095,
+    "isoCode": "AED",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 5.0659,
+    "isoCode": "AED",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 5.19575,
+    "isoCode": "AED",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 5.39055,
+    "isoCode": "AED",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 5.22165,
+    "isoCode": "AED",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 5.25735,
+    "isoCode": "AED",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 5.3179,
+    "isoCode": "AED",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 5.33625,
+    "isoCode": "AED",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 5.0045,
+    "isoCode": "AED",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 5.1444,
+    "isoCode": "AED",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  },
+  {
+    "exchangeRate": 0.8474,
+    "isoCode": "GBP",
+    "startDate": "2010-12-10",
+    "endDate": "2011-01-09"
+  },
+  {
+    "exchangeRate": 0.85347,
+    "isoCode": "GBP",
+    "startDate": "2011-01-10",
+    "endDate": "2011-02-09"
+  },
+  {
+    "exchangeRate": 0.86165,
+    "isoCode": "GBP",
+    "startDate": "2011-02-10",
+    "endDate": "2011-03-09"
+  },
+  {
+    "exchangeRate": 0.85178,
+    "isoCode": "GBP",
+    "startDate": "2011-03-10",
+    "endDate": "2011-04-09"
+  },
+  {
+    "exchangeRate": 0.88254,
+    "isoCode": "GBP",
+    "startDate": "2011-04-10",
+    "endDate": "2011-05-09"
+  },
+  {
+    "exchangeRate": 0.88795,
+    "isoCode": "GBP",
+    "startDate": "2011-05-10",
+    "endDate": "2011-06-09"
+  },
+  {
+    "exchangeRate": 0.86652,
+    "isoCode": "GBP",
+    "startDate": "2011-06-10",
+    "endDate": "2011-07-09"
+  },
+  {
+    "exchangeRate": 0.8954,
+    "isoCode": "GBP",
+    "startDate": "2011-07-10",
+    "endDate": "2011-08-09"
+  },
+  {
+    "exchangeRate": 0.88186,
+    "isoCode": "GBP",
+    "startDate": "2011-08-10",
+    "endDate": "2011-09-09"
+  },
+  {
+    "exchangeRate": 0.88643,
+    "isoCode": "GBP",
+    "startDate": "2011-09-10",
+    "endDate": "2011-10-09"
+  },
+  {
+    "exchangeRate": 0.8711,
+    "isoCode": "GBP",
+    "startDate": "2011-10-10",
+    "endDate": "2011-11-09"
+  },
+  {
+    "exchangeRate": 0.8748,
+    "isoCode": "GBP",
+    "startDate": "2011-11-10",
+    "endDate": "2011-12-09"
+  }
+]
